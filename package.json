@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/gaugeepoch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gauge HTML/Markdown epoch fragments safely for docs pipelines.",
+  "bin": {
+    "gaugeepoch": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/gaugeepoch.git"
+  },
+  "homepage": "https://theworker02.github.io/gaugeepoch/",
+  "keywords": [
+    "gauge",
+    "epoch",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
